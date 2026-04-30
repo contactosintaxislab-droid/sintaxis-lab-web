@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Páginas principales
+Allow: /index.html
+Allow: /cerebro-digital.html
+Allow: /tablero-control.html
+Allow: /partner-crecimiento.html
+Allow: /casos-exito.html
+Allow: /blog.html
+
+# Sitemap
+Sitemap: https://sintaxislab.cl/sitemap.xml
